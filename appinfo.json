@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "andrew.jazbec@gmail.com",
+    "longName": "Cookie Clicker",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/click copy.png",
+                "menuIcon": true,
+                "name": "COOKIE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/click.png",
+                "name": "IMAGE_COOKIE_CLICKER",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Cookie Clicker",
+    "uuid": "039f2d4b-c362-48ec-95d7-22c271a410ec",
+    "versionCode": 1,
+    "versionLabel": "2.2",
+    "watchapp": {
+        "watchface": false
+    }
+}
